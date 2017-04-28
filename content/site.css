@@ -1,10 +1,9 @@
 ﻿body {
 }
 
-nav#navvlicious.navbar.navbar-static-top{
+#navvlicious{
     margin-top:0px;
     margin-bottom:0px;
-    color:#FFF6F0;
     background-color: #000000;
 }
 
@@ -16,5 +15,13 @@ nav#navvlicious.navbar.navbar-static-top{
     color:#FFFFFF;
 }
 
+.nav.navbar-nav.navbar-right li a{
+    color:lightgray;
+    background-color:#000000;
+}
+
+.nav.navbar-nav.navbar-right li a:hover{
+    color:#FFFFFF;
+}
 
 
