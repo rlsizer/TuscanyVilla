@@ -1,2 +1,20 @@
 ﻿body {
 }
+
+nav#navvlicious.navbar.navbar-static-top{
+    margin-top:0px;
+    margin-bottom:0px;
+    color:#FFF6F0;
+    background-color: #000000;
+}
+
+.glyphicon.glyphicon-home{
+    color:lightgray;
+}
+
+.glyphicon.glyphicon-home:hover{
+    color:#FFFFFF;
+}
+
+
+
