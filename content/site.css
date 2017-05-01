@@ -2,6 +2,11 @@
     overflow-x: hidden;
 }
 
+.container1{
+    height:100px;
+    padding-left:0px;
+    padding-right:0px;
+}
 
 #navvlicious{
     margin-top:0px;
@@ -26,19 +31,12 @@
     color:#FFFFFF;
 }
 
-.jumbotron {
-    height:100%;
-    padding-left: 0px;
-    padding-right: 0px;
-    padding-top: 0px;
-    margin-left:0;
 
-}
 
-.img-responsive{
-    height:auto;
-    max-width:100%;
-
+.splashRow{
+    
+    margin-bottom:0 auto;
+    margin-top: 0 auto;
 }
 
 
@@ -77,74 +75,50 @@
     margin-left:0 auto;
 }
 
+.caption.futuristicText{
+ 
+    color:#000000;
+    padding-right:0px;
+}
 
+#locationNum2{
+    padding-right:0px;
+    margin-right:0 auto;
+}
 
-/*div.container{
+.caption.vineyardText{
+    text-align:left;
+    color:#000000;
+    padding-left:0px;
+}
 
-    margin-top:0px;
-    padding-top:0px;
-    width: 1360px;
-    height: 351px;
-    position: relative;
+#locationNum3{
+    padding-left:0px;
+    margin-left:0 auto;
+}
+
+.secondHeader{
+    background-color:#000000;
     color:white;
-}
-div.container img{
-    position:absolute;
-    bottom:0px;
-}
-div.container img#splashImage1{
-    left: 0;
-}
-div.container img#splashImage2{
-    right:0px;
-    width:380px;
-    height:372px;
-}
-
-
-.post-content {
-    background: none repeat scroll 0 0 #FFffff;
-    opacity: 0;
-    margin: 0 auto;
-    margin-top: -54px;
     text-align:center;
-    position: relative;
-    width:40%;
-    
+    padding-top:20px;
+    padding-bottom:20px;
+
+}
+
+.caption.firstThumbText{
+    text-align:center;
+    color:#000000;
     
 }
 
-.wrapper {
+.thirdHeader{
+    background-color:#000000;
+    color:white;
     text-align:center;
-}*/
+    padding-top:20px;
+    padding-bottom:20px;
 
-
-
-/*div.row  {
-    width: 1360px;
-    height: 351px;
-    position: relative;
 }
-
-.row img {
-     position:absolute;
-    bottom: 0;
-}
-
-.row img#splashImage1  {
-    left: 0;
-}
-
-.row img#splashImage2 {
-    right: 0;
-    width:380px;
-    height:372px;
-}*/
-
-
-
-
-
-
 
 
